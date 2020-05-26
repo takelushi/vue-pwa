@@ -51,4 +51,5 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
    git commit -m 'deploy'
 
    git push -f git@github.com:<USER>/<REPO>.git master:gh-pages
+   # e.g. git push -f git@github.com:takelushi/vue-pwa.git master:gh-pages
    ```
