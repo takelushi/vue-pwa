@@ -42,3 +42,11 @@ vue create vue-pwa
 ## Setup for deployment
 
 * Create `vue.config.js`
+
+## Add Vueitfy
+
+```sh
+vue add vuetify
+
+# ? Choose a preset: Default (recommended)
+```
